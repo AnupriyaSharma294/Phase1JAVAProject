@@ -1,0 +1,2 @@
+module MyPhase1Project {
+}
