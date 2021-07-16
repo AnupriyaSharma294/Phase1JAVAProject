@@ -1,0 +1,31 @@
+---------Lockers Pvt. Ltd ---------------
+Welcome to Project lockedme.com
+Developer : Anupriya Sharma
+Email ID : anupriya.sharma.294@gmail.com
+Contact : 9604857697 if any query
+------------------------------------------------------
+Main Menu
+1 : Show the all files 
+2 : FileOption Menu
+3 : Exit Application
+-------------------------------------------------------
+1(Main Menu) : Show the all files we created
+2(fileOption Menu) : Available Options are
+	1 create a file
+	2 file Information
+	3 Read file
+	4 write in file
+	5 delete a file
+3(Exit Application) : Close the Application	
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
